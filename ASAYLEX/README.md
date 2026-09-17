@@ -2,7 +2,7 @@
 
 ASAYLEX is a KVKK-oriented legal-tech AI system for receiving legal documents, extracting text, masking personally identifiable information and performing AI-assisted analysis through a privacy-first boundary.
 
-![ASAYLEX architecture](assets/architecture.png)
+![ASAYLEX architecture](assets/architecture.jpg)
 
 ## What It Solves
 Legal documents contain highly sensitive personal and case data. ASAYLEX is designed so raw document content is processed and masked before AI analysis, RAG indexing or optional external research integrations.
