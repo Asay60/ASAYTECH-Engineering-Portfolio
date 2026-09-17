@@ -2,7 +2,7 @@
 
 ELAI is a WhatsApp-native multimodal AI receptionist and business assistant for appointment-driven local businesses.
 
-![ELAI architecture](assets/architecture.png)
+![ELAI architecture](assets/architecture.jpg)
 
 ## What It Solves
 ELAI handles repetitive customer conversations, appointment operations and owner-side business tasks while keeping sensitive or low-confidence cases eligible for human handoff.
