@@ -2,7 +2,7 @@
 
 CTWA Engine connects Meta Click-to-WhatsApp advertising with AI lead qualification, WhatsApp sales conversations, human handoff and revenue attribution.
 
-![CTWA Engine architecture](assets/architecture.png)
+![CTWA Engine architecture](assets/architecture.jpg)
 
 ## What It Solves
 Marketing teams often lose attribution after a prospect moves from an ad into WhatsApp. CTWA Engine preserves the ad-to-conversation relationship, qualifies the lead and records supported commercial outcomes.
