@@ -2,7 +2,7 @@
 
 ASAY Ledger AI is a multi-tenant operations platform for accounting offices (SMMM) and their clients. It combines document intake, asynchronous OCR, AI-assisted review, risk prioritization and follow-up workflows while keeping the accountant in control of final decisions.
 
-![ASAY Ledger AI architecture](assets/architecture.png)
+![ASAY Ledger AI architecture](assets/architecture.jpg)
 
 ## What It Solves
 Accounting offices repeatedly chase clients for missing documents, review uploads manually and decide who needs follow-up. ASAY Ledger AI turns that work into a managed workflow instead of replacing the core ERP/general ledger.
